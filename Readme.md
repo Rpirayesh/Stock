@@ -1,7 +1,10 @@
-# Stock Prediction Using LLaMA3 and Generative AI
+StockLSTM.py
+This code esimate the stocks using LSTM
+
+# Stock Prediction Using LLaMA3 and Generative AI for StockInference.py code
 
 This repository contains a Python script that leverages state-of-the-art models and APIs for predicting stock prices based on historical data and news articles. The script uses LLaMA3, a fine-tuned model, and other tools to generate forecasts for selected stocks.
-
+The
 ## Prerequisites
 
 Before running the script, ensure you have the following installed:
