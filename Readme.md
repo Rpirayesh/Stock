@@ -1,5 +1,5 @@
 StockLSTM.py
-This code esimate the stocks using LSTM
+This code is used to esimate the stocks using LSTM
 
 # Stock Prediction Using LLaMA3 and Generative AI for StockInference.py code
 
